@@ -16,7 +16,7 @@
 #include <stdio.h>
 #include <GL/gl.h>
 #include <GL/glut.h>
-
+//Hola soy nuevo en esto
 //Definimos variables
 double rotate_y=0;
 double rotate_x=0;
