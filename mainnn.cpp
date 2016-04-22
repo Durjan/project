@@ -1,6 +1,6 @@
 #include <GL/gl.h>
 #include <GL/glut.h>
-
+//algo nuevo por hoy 
 //definicion de variables
 double rotate_x=0;
 double rotate_y=0;
